@@ -25,9 +25,9 @@ The analysis process includes the following key steps:
 **Status:**
 - ✅ **Data Cleaning and Preprocessing:** The initial phase of the analysis focused on cleaning and preprocessing the dataset to ensure its integrity and suitability for further exploration.
 - ✅ **Exploratory Data Analysis (EDA):** This step involves exploring patterns, trends, and relationships within the dataset. EDA provides a foundation for deeper insights into the world's energy landscape.
-- ❌ **Feature Selection:** Feature selection aims to identify and prioritize relevant variables for the analysis. This step enhances the model's accuracy and interpretability.
-- ❌ **Model Training and Evaluation:** Once features are selected, machine learning models will be trained and evaluated to predict or classify energy-related patterns.
-- ❌ **Results Presentation:** The final step involves presenting the findings, visualizations, and key insights derived from the analysis.
+- ✅ **Feature Selection:** Feature selection aims to identify and prioritize relevant variables for the analysis. This step enhances the model's accuracy and interpretability.
+- ✅ **Model Training and Evaluation:** Once features are selected, machine learning models will be trained and evaluated to predict or classify energy-related patterns.
+- ✅ **Results Presentation:** The final step involves presenting the findings, visualizations, and key insights derived from the analysis.
 
 ## How to Use
 To replicate or extend the analysis, follow these steps:
